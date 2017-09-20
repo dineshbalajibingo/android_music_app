@@ -1,4 +1,4 @@
-Alt-Music App
+Music App
 ================================
 
 [Udacity Android Nanodegree App Project](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
