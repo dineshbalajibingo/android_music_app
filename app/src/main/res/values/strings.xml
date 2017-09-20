@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Music App</string>
+    <!-- Home Fragment-->
+    <string name="search">Here the User can search for the songs and selects the song to play</string>
+    <string name="current_music">This fragment gives the user the song he is currently listening to. He can pause, play and forward or select tracks here</string>
+    <string name="buy">Here User can buy songs. Payments will be done through Android Pay API. If we want to use any external payments like Paypay, we will be using Android Mobile Payment Library</string>
+    <!-- Friends Feed Fragment-->
+    <string name="friend_title">Your Friends Feed</string>
+    <string name="friend_desc">FriendFeed "is a service that makes it easy to share with friends online. It offers a fun and interactive way to discover and discuss information among friends."
+    Among the types of information that can be shared via FriendFeed is audio content, including podcasts such as the "Ffundercats" podcast</string>
+    <!-- User Playlist Fragment-->
+    <string name="playlist_title">Your Playlist</string>
+    <string name="playlist_desc">This gives the user saved songs in the saved playlist the user have saved in the folders</string>
+    <!-- Trending Fragment-->
+    <string name="trend_title">Trending Now Music</string>
+    <string name="trend_desc">This gives the trending music in this app. It collects the user music information and rank it and prepare this trending now at the moment</string>
+    <!-- User Profile Fragment-->
+    <string name="your_title">User Profile</string>
+    <string name="your_desc">Here user can change his personnel preferences like profile photo, passwords, and also he can see how many followers and how many profile users he is following</string>
+
+
+</resources>
